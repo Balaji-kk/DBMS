@@ -1,0 +1,13 @@
+[
+  {
+    '$group': {
+      '_id': '$CustomerID', 
+      'totalVal': {
+        '$sum': '$OrderValue'
+      }, 
+      'totalQuant': {
+        '$sum': '$TotalQuantityinOrder'
+      }
+    }
+  }
+]

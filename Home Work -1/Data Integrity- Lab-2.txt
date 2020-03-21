@@ -1,0 +1,7 @@
+Solution:
+
+We have a Composite primary key in Design A which is too long and could cause potential data entry and degrade database performance so in this
+scenario we can go for surrogate key which is implemented in Design B. But due to non identifying relationship there might be some data integrity
+issues, to overcome these issues we have to make sure that we are making the key attributes mandatory(enrollment ID,course ID, Student ID, Term ID).
+We have to setup Referential integrity for original key attribute(the Attributes of surrogate key), we have to see the combination of original key 
+attributes are unique,by using index for key attributes we can enforce this.

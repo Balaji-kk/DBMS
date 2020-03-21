@@ -1,0 +1,11 @@
+{"_id":{"$oid":"5d8e0f8161f02845a07692c7"},"CustomerID":{"$numberInt":"11005"},"SalesOrderID":{"$numberInt":"43704"},"OrderValue":{"$numberInt":"3729"},"TotalQuantityinOrder":{"$numberInt":"1"}}
+{"_id":{"$oid":"5d8e10ae61f02845a07692c8"},"CustomerID":{"$numberInt":"11005"},"SalesOrderID":{"$numberInt":"51612"},"OrderValue":{"$numberInt":"2610"},"TotalQuantityinOrder":{"$numberInt":"4"}}
+{"_id":{"$oid":"5d8e114961f02845a07692c9"},"CustomerID":{"$numberInt":"11005"},"Salesorderid":{"$numberInt":"57361"},"OrderValue":{"$numberInt":"2634"},"TotalQuantityinOrder":{"$numberInt":"2"}}
+{"_id":{"$oid":"5d8e11d861f02845a07692ca"},"CustomerID":{"$numberInt":"11006"},"SalesOrderID":{"$numberInt":"3757"},"OrderValue":{"$numberInt":"3757"},"TotalQuantityinOrder":{"$numberInt":"1"}}
+{"_id":{"$oid":"5d8e12a461f02845a07692cb"},"CustomerID":{"$numberInt":"11006"},"SalesOrderID":{"$numberInt":"51198"},"OrderValue":{"$numberInt":"2580"},"TotalQuantityinOrder":{"$numberInt":"3"}}
+{"_id":{"$oid":"5d8e133261f02845a07692cc"},"CustomerID":{"$numberInt":"11006"},"SalesOrderID":{"$numberInt":"58007"},"OrderValue":{"$numberInt":"2634"},"TotalQuantityinOrder":{"$numberInt":"1"}}
+{"_id":{"$oid":"5d8e13b561f02845a07692cd"},"CustomerID":{"$numberInt":"11007"},"SalesOrderID":{"$numberInt":"43743"},"OrderValue":{"$numberInt":"3757"},"TotalQuantityinOrder":{"$numberInt":"1"}}
+{"_id":{"$oid":"5d8e144a61f02845a07692cf"},"CustomerID":{"$numberInt":"11007"},"SalesOrderID":{"$numberInt":"51581"},"OrderValue":{"$numberInt":"2673"},"TotalQuantityinOrder":{"$numberInt":"2"}}
+{"_id":{"$oid":"5d8e14b361f02845a07692d0"},"CustomerID":{"$numberInt":"11008"},"SalesOrderID":{"$numberInt":"43826"},"OrderValue":{"$numberInt":"3726"},"TotalQuantityinOrder":{"$numberInt":"1"}}
+{"_id":{"$oid":"5d8e151a61f02845a07692d1"},"CustomerID":{"$numberInt":"11008"},"SalesOrderID":{"$numberInt":"51282"},"OrderValue":{"$numberInt":"2555"},"TotalQuantityinOrder":{"$numberInt":"4"}}
+{"_id":{"$oid":"5d8e157d61f02845a07692d2"},"CustomerID":{"$numberInt":"11008"},"SalesOrderID":{"$numberInt":"53765"},"OrderValue":{"$numberInt":"2673"},"TotalQuantityinOrder":{"$numberInt":"2"}}
